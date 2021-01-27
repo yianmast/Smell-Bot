@@ -1,0 +1,22 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch
+*Date=14:42:53
+*CreatedBy=Fritzing 0.8.7b.01.24.1bf5
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;5V;TO220 [THT];20.3364;-14.0272;0;Bottom;VCC
+2;;THT;5.09644;-13.1382;0;Bottom;
+3;;THT;5.09644;-4.88324;0;Bottom;J5
+4;450;THT;15.2564;-4.88324;0;Bottom;R1
+5;;;2.55644;-2.34324;0;Bottom;Hole1
+6;;;25.4164;-17.5832;0;Bottom;Hole2
+7;;THT;8.9253;-13.1382;0;Bottom;J4
